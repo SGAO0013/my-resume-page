@@ -1,0 +1,2 @@
+flask 
+gunicorn  #python service that help launuch the application 
